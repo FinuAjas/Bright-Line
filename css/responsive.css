@@ -812,7 +812,7 @@ margin-top: 15px;
   margin-top: 0;
         margin-bottom: 0;   
         padding: 25px 0;
-      background: #263987;
+      background: #253c87;
 }
     .pagination-wrap {
     margin-bottom: 50px;
@@ -1174,7 +1174,7 @@ border: 1px solid #000;
 }
     .mean-container .mean-nav ul li a {
     border-top: 1px solid rgba(217, 217, 217, 0.5);
-    color: #333;
+    color: #000000;
     display: block;
     float: left;
     margin: 0;
@@ -1519,7 +1519,7 @@ transform: inherit;
   width: 100%;
 }
     .header-three .menu-area {
-  background: #263987;
+  background: #253c87;
 }
     .about-content2 .about-content3 li{
         width: 100%;
@@ -1837,7 +1837,7 @@ margin: -120px -150px 100px;
 }
     .mean-container .mean-nav ul li a {
     border-top: 1px solid rgba(217, 217, 217, 0.5);
-    color: #333;
+    color: #000000;
     display: block;
     float: left;
     margin: 0;
@@ -2766,7 +2766,7 @@ width: 100%;
 	padding-top: 115px;
 }
 .menu-area .menu-tigger {display: none;}
-.off-logo {display: block;}
+.oflogo {display: block;}
 .faq-img.text-right {
 	text-align: center !important;
 	margin-top: 30px;
